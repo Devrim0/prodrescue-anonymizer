@@ -1,4 +1,4 @@
-# 🛡️ ProdRescue Log Anonymizer
+# 🛡️ ProdRescue Log Anonymizer(https://www.prodrescueai.com/)
 
 **Secure your logs before they reach the AI.** This is the core anonymization engine used by **ProdRescue AI** to ensure PII (Personally Identifiable Information), secrets, and system metadata are redacted locally before any external API calls (OpenAI, Anthropic, Google Gemini) are made.
 
